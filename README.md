@@ -1,9 +1,10 @@
-![prototyping solderable board](./images/3d-view-led-switch-breakout-board-v1_1.png)
+![prototyping solderable board](./images/splash-3d-view-led-switch-breakout-board-v1_1.png)
 
 [![GitHub version](https://img.shields.io/github/release/berrak/LED-Switch-Breakout-Board.svg?logo=github&logoColor=ffffff)](https://github.com/berrak/LED-Switch-Breakout-Board/releases/latest)
 [![GitHub Release Date](https://img.shields.io/github/release-date/berrak/LED-Switch-Breakout-Board.svg?logo=github&logoColor=ffffff)](https://github.com/berrak/LED-Switch-Breakout-Board/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/berrak/LED-Switch-Breakout-Board.svg?logo=github&logoColor=ffffff)](https://github.com/berrak/LED-Switch-Breakout-Board/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/berrak/LED-Switch-Breakout-Board.svg?logo=github&logoColor=ffffff)](https://github.com/berrak/LED-Switch-Breakout-Board/issues)
+![Badge Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=berrak_LED-Switch-Breakout-Board)
 
 # The LED Switch Breakout board
 
@@ -53,3 +54,7 @@ The `LED Switch Breakout` board is available only fully assembled.
 [![Tindie](./images/tindie-small.png)](https://www.tindie.com/stores/debinix/)
 
 I appreciate your support.
+
+## Credits
+
+`Coming soon` splash image by [starline](https://www.freepik.com/free-vector/abstract-grunge-style-coming-soon-with-black-splatter_9504688.htm#query=coming%20soon&position=4&from_view=keyword).
