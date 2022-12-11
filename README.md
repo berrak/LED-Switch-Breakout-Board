@@ -12,6 +12,8 @@
 
 Prototyping microcontrollers on a breadboard or any similar setup is very common. The `Tiny LED Switch Breakout` board quickly verifies GPIO outputs or code behavior when the input changes. No need to grab a bunch of LEDs, resistors, or switches. Just use this board.
 
+Seeing the logic state of different buttons, switches, and data lines is beneficial. With the `TinyLedSwitch Breakout Board`, it is easy to identify the source of a problem, whether it be a bad switch, wire, or code.
+
 ## Board main features
 
 The fully assembled board includes:
@@ -25,6 +27,8 @@ The fully assembled board includes:
 ## Example usage
 
 The Arduino library [LedTask](https://github.com/berrak/LedTask) on GitHub shows an example using this board (v1.1). `LedTask` offers an elementary `multi-tasking` example with four LEDs, and these run close to independent of each other, and in addition a switch example sketch.
+
+![three-breadboard](./images/all-three-boards.png)
 
 ## Specification for the breakout board v1.1
 
