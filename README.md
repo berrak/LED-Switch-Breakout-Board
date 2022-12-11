@@ -47,6 +47,6 @@ The Arduino library [LedTask](https://github.com/berrak/LedTask) on GitHub shows
 
 `Tindie` has all the latest designed boards.
 
-[![Tindie](./images/tindie-small.png)](https://www.tindie.com/stores/debinix/)
+[![Tindie](./images/tindie-small.png)](https://www.tindie.com/products/28755/)
 
 I appreciate your support.
