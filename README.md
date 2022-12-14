@@ -39,14 +39,12 @@ The Arduino library [LedTask](https://github.com/berrak/LedTask) on GitHub shows
 * Weight: 3 grams (0.11 ounce).
 * Height: 15 mm (0.59").
 
-## The breakout board is fully assembled
+## Purchase the board.
 
-`The TinyLedSwitch - A universal breakout board` is available fully assembled.
+`The TinyLedSwitch - A universal breakout board` is available fully assembled in two header pin variants but can be ordered without soldered header pins.
 
-## Purchase the board
+[Tindie](https://www.tindie.com/products/28755/) and [Lectronz](https://lectronz.com/products/the-tinyledswitch-a-universal-breakout-board) have all the purchasing details.
 
-`Tindie` has all the latest designed boards.
-
-[![Tindie](./images/tindie-small.png)](https://www.tindie.com/products/28755/)
+[![Tindie](./images/tindie-small.png)](https://www.tindie.com/products/28755/) [![Lectronz](./images/github-lectronz.png)](https://lectronz.com/products/the-tinyledswitch-a-universal-breakout-board)
 
 I appreciate your support.
