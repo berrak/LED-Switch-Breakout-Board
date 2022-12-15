@@ -1,4 +1,4 @@
-![prototyping solderable board](./images/3d-view-led-switch-breakout.png)
+![prototyping solderable board](./images/features.png)
 
 [![GitHub version](https://img.shields.io/github/release/berrak/LED-Switch-Breakout-Board.svg?logo=github&logoColor=ffffff)](https://github.com/berrak/LED-Switch-Breakout-Board/releases/latest)
 [![GitHub Release Date](https://img.shields.io/github/release-date/berrak/LED-Switch-Breakout-Board.svg?logo=github&logoColor=ffffff)](https://github.com/berrak/LED-Switch-Breakout-Board/releases/latest)
